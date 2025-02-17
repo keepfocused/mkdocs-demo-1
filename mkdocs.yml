@@ -1,0 +1,12 @@
+site_name: DevoOps docs
+site_url: https://keepfocused.github.io/mkdocs-demo-1/
+theme:
+  name: material
+
+site_author: danil
+copyright: danil 2025
+
+markdown_extension:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
